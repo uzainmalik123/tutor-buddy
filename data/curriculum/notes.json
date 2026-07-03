@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "What Are Fractions",
+    "subject": "Math",
+    "grade": "4",
+    "content": "A fraction shows a part of a whole. The top number is called the numerator. The bottom number is called the denominator. For example, in 3/4, 3 is the numerator and 4 is the denominator."
+  },
+  {
+    "topic": "Adding Fractions",
+    "subject": "Math",
+    "grade": "5",
+    "content": "To add fractions with the same denominator, just add the numerators. For example, 1/5 + 2/5 = 3/5. If the denominators are different, find a common denominator first."
+  },
+  {
+    "topic": "Subtracting Fractions",
+    "subject": "Math",
+    "grade": "5",
+    "content": "To subtract fractions with the same denominator, subtract the numerators. For example, 3/4 - 1/4 = 2/4. Remember to simplify your answer when possible."
+  },
+  {
+    "topic": "Multiplying Fractions",
+    "subject": "Math",
+    "grade": "6",
+    "content": "To multiply fractions, multiply the numerators together and the denominators together. For example, 2/3 × 3/4 = 6/12. Simplify 6/12 to 1/2."
+  },
+  {
+    "topic": "What Are Percentages",
+    "subject": "Math",
+    "grade": "6",
+    "content": "A percentage is a number out of 100. The symbol % means 'per hundred'. For example, 50% means 50 out of 100, which is the same as one half."
+  },
+  {
+    "topic": "Converting Fractions to Percentages",
+    "subject": "Math",
+    "grade": "6",
+    "content": "To convert a fraction to a percentage, divide the numerator by the denominator and multiply by 100. For example, 3/4 = 3 ÷ 4 = 0.75, then 0.75 × 100 = 75%."
+  },
+  {
+    "topic": "Finding a Percentage of a Number",
+    "subject": "Math",
+    "grade": "7",
+    "content": "To find a percentage of a number, convert the percentage to a decimal and multiply. For example, 20% of 80 = 0.20 × 80 = 16."
+  },
+  {
+    "topic": "Introduction to Algebra",
+    "subject": "Math",
+    "grade": "6",
+    "content": "Algebra uses letters to represent unknown numbers. For example, in x + 3 = 7, x is the unknown. To solve, find the number that makes the equation true. Here, x = 4."
+  },
+  {
+    "topic": "Solving Simple Equations",
+    "subject": "Math",
+    "grade": "7",
+    "content": "To solve an equation, do the same operation to both sides. For x - 5 = 10, add 5 to both sides: x = 15. For 2x = 8, divide both sides by 2: x = 4."
+  },
+  {
+    "topic": "Order of Operations",
+    "subject": "Math",
+    "grade": "5",
+    "content": "The order of operations is PEMDAS: Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right). For example, 3 + 2 × 5 = 3 + 10 = 13."
+  },
+  {
+    "topic": "What Is Photosynthesis",
+    "subject": "Science",
+    "grade": "5",
+    "content": "Photosynthesis is how plants make their own food. Plants use sunlight, water, and carbon dioxide to make glucose and oxygen. This happens in the leaves."
+  },
+  {
+    "topic": "Parts of a Plant",
+    "subject": "Science",
+    "grade": "4",
+    "content": "A plant has roots, stems, leaves, and flowers. Roots take in water from the soil. Stems carry water to the leaves. Leaves make food. Flowers make seeds."
+  },
+  {
+    "topic": "The Water Cycle",
+    "subject": "Science",
+    "grade": "5",
+    "content": "The water cycle has three main steps. Evaporation turns water into vapor. Condensation turns vapor into clouds. Precipitation returns water to the ground as rain or snow."
+  },
+  {
+    "topic": "Evaporation and Condensation",
+    "subject": "Science",
+    "grade": "4",
+    "content": "Evaporation is when liquid water turns into vapor (gas). Condensation is when water vapor turns back into liquid. You see condensation on a cold glass of water."
+  },
+  {
+    "topic": "The Solar System",
+    "subject": "Science",
+    "grade": "5",
+    "content": "The solar system has the Sun at the center and eight planets orbiting around it. The planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "topic": "Earth's Rotation and Revolution",
+    "subject": "Science",
+    "grade": "6",
+    "content": "Earth rotates on its axis once every 24 hours, which gives us day and night. Earth revolves around the Sun once every 365 days, which gives us a year."
+  },
+  {
+    "topic": "The Moon Phases",
+    "subject": "Science",
+    "grade": "5",
+    "content": "The Moon has eight phases. They start with new moon, then waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, third quarter, and waning crescent."
+  },
+  {
+    "topic": "The Food Chain",
+    "subject": "Science",
+    "grade": "4",
+    "content": "A food chain shows who eats whom in nature. Plants are producers. Animals that eat plants are herbivores. Animals that eat other animals are carnivores."
+  },
+  {
+    "topic": "Gravity",
+    "subject": "Science",
+    "grade": "6",
+    "content": "Gravity is a force that pulls objects toward each other. Earth's gravity pulls everything toward the ground. That is why we stay on the ground and why things fall."
+  },
+  {
+    "topic": "States of Matter",
+    "subject": "Science",
+    "grade": "4",
+    "content": "Matter comes in three main states: solid, liquid, and gas. Solids have a fixed shape. Liquids take the shape of their container. Gases spread out to fill any space."
+  },
+  {
+    "topic": "Nouns",
+    "subject": "English",
+    "grade": "4",
+    "content": "A noun is a word for a person, place, or thing. Examples: teacher (person), school (place), book (thing). Proper nouns name specific ones and start with a capital letter."
+  },
+  {
+    "topic": "Verbs",
+    "subject": "English",
+    "grade": "4",
+    "content": "A verb is an action word. It tells what someone or something does. Examples: run, jump, read, write, eat, sleep. Every sentence must have a verb."
+  },
+  {
+    "topic": "Adjectives",
+    "subject": "English",
+    "grade": "4",
+    "content": "An adjective describes a noun. It tells us more about a person, place, or thing. Examples: happy girl, blue sky, big house, delicious cake."
+  },
+  {
+    "topic": "Adverbs",
+    "subject": "English",
+    "grade": "5",
+    "content": "An adverb describes a verb, adjective, or another adverb. It often ends in -ly. Examples: She ran quickly. He spoke softly. The test was very easy."
+  },
+  {
+    "topic": "Pronouns",
+    "subject": "English",
+    "grade": "4",
+    "content": "A pronoun takes the place of a noun. Common pronouns are: I, you, he, she, it, we, they. Example: Instead of 'Sarah is nice', say 'She is nice'."
+  },
+  {
+    "topic": "Prepositions",
+    "subject": "English",
+    "grade": "5",
+    "content": "A preposition shows the relationship between a noun and other words in a sentence. Examples: in, on, under, beside, between, above, through, with."
+  },
+  {
+    "topic": "Conjunctions",
+    "subject": "English",
+    "grade": "5",
+    "content": "A conjunction connects words or sentences. The most common ones are: and, but, or, so, because. Example: I wanted to play outside, but it started raining."
+  },
+  {
+    "topic": "Parts of a Paragraph",
+    "subject": "English",
+    "grade": "5",
+    "content": "A paragraph has three parts. The topic sentence tells the main idea. The supporting sentences give details. The concluding sentence wraps it up."
+  },
+  {
+    "topic": "Writing a Good Paragraph",
+    "subject": "English",
+    "grade": "6",
+    "content": "To write a good paragraph, start with a clear topic sentence. Add 3-5 sentences with details or examples. End with a closing sentence. Stay on one topic throughout."
+  },
+  {
+    "topic": "Subject-Verb Agreement",
+    "subject": "English",
+    "grade": "6",
+    "content": "The subject and verb in a sentence must agree in number. If the subject is singular, the verb must be singular too. Example: She runs fast. They run fast."
+  }
+]

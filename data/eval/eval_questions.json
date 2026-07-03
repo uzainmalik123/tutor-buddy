@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is a fraction?",
+    "expected_answer": "A fraction shows a part of a whole. It has a numerator on top and a denominator on the bottom.",
+    "subject": "Math"
+  },
+  {
+    "question": "How do you add fractions with the same denominator?",
+    "expected_answer": "Add the numerators and keep the denominator the same. For example, 1/5 + 2/5 = 3/5.",
+    "subject": "Math"
+  },
+  {
+    "question": "How do you convert 3/4 to a percentage?",
+    "expected_answer": "Divide 3 by 4 to get 0.75, then multiply by 100 to get 75%.",
+    "subject": "Math"
+  },
+  {
+    "question": "Solve for x: x + 5 = 12",
+    "expected_answer": "Subtract 5 from both sides: x = 7.",
+    "subject": "Math"
+  },
+  {
+    "question": "What is photosynthesis?",
+    "expected_answer": "Photosynthesis is how plants make their own food using sunlight, water, and carbon dioxide to produce glucose and oxygen.",
+    "subject": "Science"
+  },
+  {
+    "question": "What are the three main steps of the water cycle?",
+    "expected_answer": "Evaporation, condensation, and precipitation.",
+    "subject": "Science"
+  },
+  {
+    "question": "What causes day and night on Earth?",
+    "expected_answer": "Earth rotates on its axis once every 24 hours, causing day and night.",
+    "subject": "Science"
+  },
+  {
+    "question": "What is a noun?",
+    "expected_answer": "A noun is a word for a person, place, or thing. Examples: teacher, school, book.",
+    "subject": "English"
+  },
+  {
+    "question": "What is an adjective?",
+    "expected_answer": "An adjective describes a noun. Examples: happy, blue, big, delicious.",
+    "subject": "English"
+  },
+  {
+    "question": "What are the three parts of a paragraph?",
+    "expected_answer": "A topic sentence, supporting sentences, and a concluding sentence.",
+    "subject": "English"
+  }
+]
