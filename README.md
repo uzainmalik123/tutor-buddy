@@ -66,7 +66,7 @@ An AI education agent for Grade 4-8 students built with Gemini, RAG, and Gradio.
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/TutorBuddy.git
+git clone https://github.com/uzainmalik123/tutor-buddy.git
 cd TutorBuddy
 python -m venv venv
 source venv/bin/activate
