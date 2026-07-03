@@ -127,7 +127,6 @@ TutorBuddy/
 ```
 
 ## Kaggle Submission
-[KAGGLE_NOTEBOOK_URL]
 TutorBuddy was built for the [Kaggle 5-Day Generative AI Intensive](https://www.kaggle.com/learn/generative-ai-intensive) capstone. The notebook inlines all code for Kaggle compatibility and includes a live Gradio demo with `share=True`.
 
 Notebook: https://www.kaggle.com/code/uzainalii/notebooke9b9cfe8f7
